@@ -29,4 +29,4 @@ Este perfil reúne minha documentação de testes.
 ---
 
 📍 Itajaí, SC
-🔗 [LinkedIn](https://www.linkedin.com/in/samuelgomez-da-silva-a29485311)
+🔗 [LinkedIn](https://www.linkedin.com/in/samuel-gomez-da-silva-a29485311)
