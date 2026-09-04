@@ -1,21 +1,32 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Samuel Gomez and my nickname is "samuelgomezdev"!
+# Samuel Gomez da Silva
 
-## I'm learning
+Trabalho com qualidade há 4 anos. Meu trabalho é impedir que defeitos cheguem ao cliente final.
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/> 
+Hoje sou Inspetor de Qualidade na OKEAN Yachts, onde gerencio o ciclo completo de não conformidades — registro, classificação por severidade, evidência, rastreamento até a correção e verificação do fechamento. Investigo causa raiz com 5 Porquês e Ishikawa e executo planos de inspeção com critérios de aceitação objetivos.
 
-## Contacts:
+Curso Análise e Desenvolvimento de Sistemas na Univali e aplico esse mesmo raciocínio em software: análise de requisitos, elaboração de casos de teste, validação de dados e testes de API.
 
-<div>
-<a href = "mailto:samuelgomez12041@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="(https://www.linkedin.com/in/samuel-gomez-da-silva-a29485311/)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+Este perfil reúne minha documentação de testes.
 
-<div>
-<a href="https://github.com/samuelgomezdev">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelgomezdev&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelgomezdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+---
 
+### Repositórios
 
+| Repositório | Descrição |
+|---|---|
+| [qa-portfolio-saucedemo](https://github.com/samuelgomezdev/qa-portfolio-saucedemo) | Automação E2E (Playwright + TypeScript) de um e-commerce, com geração automática de não conformidades a partir da execução dos testes |
+
+---
+
+### Ferramentas e tecnologias
+
+`SQL` · `Postman` · `Playwright` · `TypeScript` · `Python` · `Git` · `GitHub` · `Markdown`
+
+### Metodologias
+
+`Análise de requisitos` · `Casos de teste` · `Gestão de defeitos` · `Análise de causa raiz (5 Porquês, Ishikawa)` · `Lean Six Sigma`
+
+---
+
+📍 Itajaí, SC
+🔗 [LinkedIn](https://www.linkedin.com/in/samuelgomez-da-silva-a29485311)
